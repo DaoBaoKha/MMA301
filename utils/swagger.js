@@ -12,7 +12,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:3000", // Base URL for your API
+        url: "https://mma301-0au5.onrender.com/", // Base URL for your API
       },
     ],
     components: {
